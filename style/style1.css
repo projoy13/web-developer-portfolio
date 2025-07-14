@@ -1,0 +1,73 @@
+
+.open-Sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+ 
+}
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+     background-image:url('23.avif');
+}
+.xx{
+    color: crimson;
+    font-size:bolder;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 20px;
+
+}
+
+
+
+ul li{
+    font-style: italic;
+    list-style: none;
+}
+.uu{
+    color:orangered;
+}
+.zz{
+    background-color: orangered;
+}
+.zz:hover{
+    background-color: aqua;
+}
+img{
+    width: 200px;
+}
+.banner-c{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 20px;
+}
+.btx{
+    background-color: red;
+    margin-top: 10pc;
+}
+nav ul {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content:space-between ;
+    margin: 50px 200px;
+   
+}
+ ul li{
+    margin-right: 150px;
+    font-style: normal;
+}
+.section-titel{
+    font-size:35px;
+    font-wight:hold;
+    
+}
+
